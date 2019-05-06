@@ -1,0 +1,13 @@
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\bin\Debug\AlarmClock.xml
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form1.resources
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Resources.resources
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbproj.GenerateResource.Cache
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.xml
+c:\users\mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+C:\Users\Mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.AlarmPanel.resources
+C:\Users\Mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.TimePanel.resources
+C:\Users\Mehdi\documents\visual studio 2015\Projects\AlarmClock\AlarmClock\obj\Debug\AlarmClock.vbprojResolveAssemblyReference.cache
